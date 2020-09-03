@@ -1,5 +1,10 @@
 ﻿***** 普通日志 *****
 
+###Update Time: 2020-09-03 17:53###
+Submit Version: 2
+> 更新X10 SD卡烧录工具
+> 添加操作文档
+
 ###Update Time: 2020-05-14 17:08###
 Submit Version: 1
 > 添加X10 SD卡烧录工具
